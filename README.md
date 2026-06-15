@@ -1,141 +1,70 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surendran%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Turning%20Raw%20Data%20into%20Real-World%20Impact&descAlignY=62&descSize=16)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=SURENDRAN%20G&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Analytics%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+ML+Engineer;Python+%7C+TensorFlow+%7C+Scikit-learn;NLP+%7C+Time+Series+%7C+Deep+Learning;Building+models+that+solve+real+problems)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions;Building+ML+Models+that+Matter;Passionate+about+AI+%26+Analytics;Open+to+Data+Science+Opportunities" alt="Typing SVG" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=aswath_tamilan&style=flat-square&color=70A5FD&label=Profile+Views" alt="Profile Views"/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendrang02)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surendrang02@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Coimbatore,_India-grey?style=for-the-badge)](https://www.google.com/maps/place/Chennai)
+[![Profile Views](https://komarev.com/ghpvc/?username=surendrang02&style=for-the-badge&color=0e75b6)](https://github.com/surendrang02)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name            = "Surendran G"
-        self.location        = "Coimbatore, Tamil Nadu, India 🇮🇳"
-        self.degree          = "B.E. in Computer Science and Engineering (CGPA: 7.86)"
-        self.email           = "surendrang02@gmail.com"
-        self.role            = "Data Scientist | ML Engineer"
+> *"Data is the new oil — I'm here to refine it."*
 
-        self.stack = [
-            "Python", "R", "SQL",
-            "TensorFlow", "Keras", "PyTorch", "Scikit-learn",
-            "Flask", "OpenCV", "Statsmodels",
-            "Power BI", "Tableau", "Excel",
-            "MySQL", "Jupyter Notebook", "Git"
-        ]
+I'm a **Data Scientist** with a strong foundation in **Python, Machine Learning, and Statistical Analysis**, backed by real-world project experience and an industry internship at Rubixe. I specialize in building predictive, classification, and time-series models that convert raw data into **actionable business insights**.
 
-        self.currently_learning = [
-            "Digital Twin modelling",
-            "Manufacturing Analytics",
-            "Process Optimization with ML",
-            "Advanced NLP architectures"
-        ]
-
-        self.fun_fact = "I scored 98.5% accuracy on an ITSM ticket priority model 🎯"
-
-    def motto(self):
-        return "Data is the new oil — I'm the refinery. ⚙️"
-
-me = DataScientist()
-print(me.motto())
-```
+- 🔭 Currently exploring **Digital Twin, Manufacturing Analytics & Process Optimization**
+- 🧠 Experienced in **NLP, Deep Learning, and Computer Vision**
+- 📊 Built dashboards & ML pipelines deployed in production environments
+- ⚡ Achieved **98.5% accuracy** in ITSM ticket classification at Rubixe
+- 💬 Open to collaborating on **Data Science, AI, and Analytics** projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🤖 ML / DL Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### 🌐 Web & APIs
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=70A5FD"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&border_color=70A5FD"/>
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ML / DL Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+
+### Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Tools & Platforms
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight-duo&background=0d1117&border=70A5FD&ring=70A5FD&fire=FFA657&currStreakLabel=70A5FD)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Surendran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&theme=tokyo-night&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FFA657&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary><b>🏢 Rubixe — Data Science Intern &nbsp;|&nbsp; 2024 – 2025 &nbsp;|&nbsp; Chennai, India</b></summary>
-
-<br/>
-
-- 🤖 Built and deployed **ML & NLP models** to predict ticket priorities, forecast incidents, and automate ticket tagging — achieving **98.5% accuracy**
-- 📈 Developed **Time Series Forecasting** models using Statsmodels and Matplotlib for incident volume prediction
-- 📊 Designed interactive **Power BI dashboards** and reports to support data-driven decision-making
-- 🛠️ Completed **4 capstone projects + 1 client project** involving Python, MySQL, and Power BI
-- 🤝 Collaborated with cross-functional teams to address **ITSM business challenges** and deliver actionable insights
-
-**Stack:** Python · Machine Learning · NLP · Time Series · Power BI · SQL · MySQL
-
-</details>
 
 ---
 
@@ -143,56 +72,70 @@ print(me.motto())
 
 <div align="center">
 
-| Project | Description | Tech Stack | Metric |
-|:-------:|:-----------:|:----------:|:------:|
-| 🎮 **Game Winner Prediction** | Predicts PUBG match win probability using ensemble regression models; comprehensive feature engineering on gameplay data | XGBoost · AdaBoost · GradientBoosting · LinearRegression · Pandas | **R² = 92%** |
-| 🏠 **Home Loan Default Prediction** | Identifies potential loan defaulters using classification algorithms; handles imbalanced data with advanced preprocessing & hyperparameter tuning | LogisticRegression · RandomForest · XGBClassifier · KNN · SMOTE | **R² = 91%** |
-| 😷 **Real-Time Face Mask Detection** | Live video stream mask compliance checker using Haar Cascade face detection and a custom-trained CNN on augmented image data | TensorFlow · Keras · OpenCV · CNN · Haar Cascade | **Real-Time** |
-| 🛡️ **Insurance Claim Prediction** | Predicts customer claim likelihood and enhances marketing targeting; tackles data imbalance with SMOTE + PCA and a Sequential neural model | LogisticRegression · RandomForest · XGBoost · SMOTE · PCA · Sequential | **R² = 83%** |
-| 💰 **Insurance Cost Prediction** | Regression model for reliable insurance cost estimation; in-depth EDA and feature engineering for improved performance | LinearRegression · XGBRegressor · RandomForestRegressor · Feature Engineering | **R² = 81%** |
+| Project | Description | Key Skills | Score |
+|--------|-------------|------------|-------|
+| 🎭 **Face Mask Detection** | Real-time CNN-based mask compliance system using OpenCV & Haar Cascade | `CV` `CNN` `Deep Learning` `OpenCV` | Live Detection |
+| 💰 **Insurance Cost Prediction** | Regression model to predict insurance costs with EDA & feature engineering | `XGBoost` `Random Forest` `Regression` | R²: **81%** |
+| 🎮 **PUBG Game Winner Prediction** | Win probability model with GradientBoosting and AdaBoost ensemble methods | `Ensemble ML` `Feature Engineering` | R²: **92%** |
+| 🏠 **Home Loan Default Prediction** | Risk classification model with SMOTE handling for imbalanced financial data | `XGBoost` `Classification` `Hyperparameter Tuning` | R²: **91%** |
+| 📋 **Insurance Claim Prediction** | Multi-algorithm classifier with PCA + oversampling for marketing targeting | `SMOTE` `PCA` `Sequential Model` | R²: **83%** |
 
 </div>
 
 ---
 
-## 🎓 Education & Currently Learning
+## 💼 Experience
 
-### 🎓 Education
+### 🏢 Rubixe — *Data Science Intern* `2024 – 2025`
 
-| Degree | Institution | Year | CGPA |
-|:------:|:-----------:|:----:|:----:|
-| B.E. in Computer Science & Engineering | OASYS Institute of Technology | May 2024 | 7.86 |
-
-**Relevant Coursework:** DBMS · OOP · Data Structures · Operating Systems
-
-### 📚 Currently Exploring
-
-```text
-🔷  Digital Twin Modelling          ████████░░░░   In Progress
-🔷  Manufacturing Analytics         ██████░░░░░░   In Progress
-🔷  Advanced NLP Architectures      ████████░░░░   In Progress
-🔷  Process Optimization with ML    ██████░░░░░░   In Progress
+```
+📌 Built & deployed ML and NLP models → 98.5% ticket classification accuracy
+📌 Developed time-series forecasting models for ITSM incident volume prediction
+📌 Designed Power BI dashboards for real-time business intelligence reporting
+📌 Delivered 4 capstone projects + 1 client project using Python, MySQL & Power BI
+📌 Collaborated with cross-functional teams on ITSM optimization challenges
 ```
 
-### 🌐 Languages & Interests
+---
 
-- 🗣️ **Languages:** English · Tamil (Native)
-- 🏐 **Interests:** Volleyball · Swimming
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SURENDRAN02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURENDRAN02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SURENDRAN02&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎓 Education
+
+**B.E. in Computer Science and Engineering**
+OASYS Institute of Technology · *Graduated May 2024* · **CGPA: 7.86**
+
+> *Relevant Coursework: DBMS · OOP · Data Structures · Operating Systems*
+
+---
+
+## 🌐 Languages & Interests
+
+| 🗣️ Languages | ⚽ Interests |
+|--------------|-------------|
+| English · Tamil (Native) | Volleyball · Swimming |
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
+### 💡 "Every dataset tells a story. I help businesses read it."
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:surendrang02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aswath_tamilan)
-
----
-
-*"Data is not just numbers — it's the story of the world waiting to be told."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
