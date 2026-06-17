@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendrang02)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surendrang02@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Coimbatore,_India-grey?style=for-the-badge)](https://www.google.com/maps/place/Chennai)
-[![Profile Views](https://komarev.com/ghpvc/?username=SURENDRAN-GANDHI&style=for-the-badge&color=0e75b6)](https://github.com/surendrang02)
+[![Profile Views](https://komarev.com/ghpvc/?username=SURENDRAN-GANDHI&style=for-the-badge&color=0e75b6)](https://github.com/SURENDRAN-GANDHI)
 
 </div>
 
